@@ -1,0 +1,26 @@
+{
+  "name": "triickster",
+  "version": "1.0.0",
+  "description": "CRUD com MongoDB e React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederpbj/Triickster.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Eder Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ederpbj/Triickster/issues"
+  },
+  "homepage": "https://github.com/ederpbj/Triickster#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
